@@ -9,4 +9,4 @@ jobs:
       - name: Show files
         run: ls
       - name: Show file content
-        run: pyhton app.py
+        run: python app.py
